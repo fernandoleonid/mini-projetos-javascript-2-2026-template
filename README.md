@@ -113,4 +113,3 @@ do mês anterior. Sem o loop não é possível calcular.
 
 Basta abrir o arquivo `index.html` no seu navegador.
 Não é necessário instalar nada.
-# mini-projetos-javascript-2-2026-template
